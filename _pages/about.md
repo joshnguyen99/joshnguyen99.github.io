@@ -21,6 +21,8 @@ I publish under my official Vietnamese name, Tuan Dung Nguyen.
 News
 ======
 
+[10-11-2022] I made a [YouTube channel](https://www.youtube.com/channel/UCvseh-YyXwVCp4uuCMyky8w)! The first video is a [lecture on optimal transport](https://www.youtube.com/watch?v=3YFmaoCYSlc) I gave to the Advanced ML class at ANU. The slides are [here](/files/ANU_OT_Slides.pdf).
+
 [12-05-2022] I gave a talk on our [ICWSM 2022 paper](https://arxiv.org/abs/2203.16762) at the ANU's [AI, ML and Friends seminar](https://comp.anu.edu.au/ai-ml-friends). The slides can be found [here](/files/ICWSM22_MappingTopicsTalk_Long.pdf).
 
 [16-03-2022] Our paper, [_Mapping Topics in 100,000 Real-life Moral Dilemmas_](https://arxiv.org/abs/2203.16762), is accepted to [ICWSM 2022](https://icwsm.org/2022/index.html/)! The code can be found [here](https://github.com/joshnguyen99/moral_dilemma_topics) and data [here](https://doi.org/10.5281/zenodo.6791835).
