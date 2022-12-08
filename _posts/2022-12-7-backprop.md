@@ -1,6 +1,6 @@
 ---
 title: 'A Simple, but Detailed, Example of Backpropagation'
-date: 2022-10-26
+date: 2022-12-7
 permalink: /posts/backprop
 toc: true
 ---
@@ -134,7 +134,7 @@ class HalfSumSq:
 
 ## Network and Forward Propagation
 
-Now we are ready to put things together and create our neural net. For the sake of simplicity, we will only define one additional method for our class, which is `loss_and_grad`. It will (1) take an input x and perform a forward pass to get the loss, and (2) perform a backward pass to calculate the gradient of the loss with respect to its parameters.
+Now we are ready to put things together and create our neural net. For the sake of simplicity, we will only define one additional method for our class, which is `loss_and_grad`. It will (1) take an input $x$ and perform a forward pass to get the loss, and (2) perform a backward pass to calculate the gradient of the loss with respect to its parameters.
 
 As I have explained the forward pass above, we are able define the most part of our network.
 
@@ -362,8 +362,10 @@ W2 gradients match? True
 ## Conclusion
 
 We have learned how backpropagation works in a feed-forward neural network. Here are some things you can try on your own:
-- Add more layers to the network
+- Add more layers to the network.
 - Try more activation functions, e.g., ReLU, leaky ReLU, GeLU, etc.
 - Add bias to each Linear layer and find the gradient with respect to the bias.
+
+The example we just went through is very simple. You may have seen other, more complicated, architectures in which the computation graph is not sequential. An example is ResNet with skip connections. The chain rule still applies, but backpropagation requires you to perform a topological sorting of the nodes in this graph, and traverse backwards. In fact, in our example, going back from output to input is basically this traversal, as our network is sequential.
 
 Finally, you can download a Jupyter notebook version of this post [here](/files/backprop_tutorial.ipynb).
