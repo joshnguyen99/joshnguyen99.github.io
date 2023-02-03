@@ -3,11 +3,11 @@ main:
   - title: "CV"
     url: /files/JoshNguyen_CV.pdf
 
-  - title: "Teaching"
-    url: /teaching/
-
   - title: "Publications"
     url: /publications/
 
   - title: "Posts"
     url: /posts/
+
+  - title: "Teaching"
+    url: /teaching/
