@@ -5,10 +5,6 @@ permalink: /publications/
 author_profile: false
 ---
 
-<!-- {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %} -->
-
 ## Preprints
 
 Nguyen, Tung-Anh, *Tuan Dung Nguyen*, Long Tan Le, Canh T. Dinh, and Nguyen H. Tran. "**On the Generalization of Wasserstein Robust Federated Learning**." arXiv:2206.01432 (2022). [[Paper]](https://arxiv.org/abs/2206.01432) [[Code]](https://github.com/dual-grp/WAFL)
@@ -29,13 +25,3 @@ Canh T. Dinh, Nguyen H. Tran, *Tuan Dung Nguyen*, Wei Bao, Amir Rezaei Balef, Bi
 Canh T. Dinh, Nguyen H. Tran, and *Tuan Dung Nguyen*. “**Personalized Federated Learning with Moreau Envelopes**”. In: Advances in Neural Information Processing Systems 33. 2020, pp. 21394–21405. [[Paper]](https://papers.nips.cc/paper/2020/hash/f4f1f13c8289ac1b1ee0ff176b56fc60-Abstract.html) [[Code]](https://github.com/CharlieDinh/pFedMe) [[Presentation]](https://slideslive.com/38937057/personalized-federated-learning-with-moreau-envelopes?ref=recommended)
 
 Canh T. Dinh, Nguyen H. Tran, *Tuan Dung Nguyen*, Wei Bao, Albert Y. Zomaya, and Bing B. Zhou. “**Federated Learning with Proximal Stochastic Variance Reduced Gradient Algorithms**”. In: 49th International Conference on Parallel Processing. 2020, pp. 1–11. [[Paper]](https://dl.acm.org/doi/10.1145/3404397.3404457) [[Code]](https://github.com/CharlieDinh/FederatedLearningWithSVRG) [[Presentation]](https://www.youtube.com/watch?v=cXsFYcXF0KM)
-
-<!-- {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %} -->
