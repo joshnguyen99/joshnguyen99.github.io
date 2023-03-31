@@ -8,18 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-I am an MPhil candidate working with [Lexing Xie](http://users.cecs.anu.edu.au/~xlx) and [Colin Klein](http://colinklein.org) at the [Computational Media Lab](http://cm.cecs.anu.edu.au/), the Australian National University. I am also affiliated with the [Humanising Machine Intelligence](https://hmi.anu.edu.au) Grand Challenge at ANU.
+I am an M.Phil. student working with [Lexing Xie](http://users.cecs.anu.edu.au/~xlx) and [Colin Klein](http://colinklein.org) at the [Computational Media Lab](http://cm.cecs.anu.edu.au/), the Australian National University. I am also affiliated with the [Humanising Machine Intelligence](https://hmi.anu.edu.au) Grand Challenge at ANU.
 
 My thesis is in *computational social science*. I am interested in real-life moral dilemmas, social dynamics and, more broadly, practical ethics. My research aims to study relevant large-scale social phenomena using computational methods grounded in machine learning, moral psychology and natural language processing.
 
 I also have a special interest in *optimization*, especially in the context of machine learning. In 2019 and 2020, I worked as an intern with [Nguyen Tran](https://nguyenhoangtran.github.io) at the [School of Computer Science](https://www.sydney.edu.au/engineering/schools/school-of-computer-science.html), the University of Sydney, on designing personalized and communication-efficient algorithms for federated learning.
 
-Previously I graduated with a BSc in computer science from the [School of Computing and Information Systems](https://cis.unimelb.edu.au), the University of Melbourne. During my undergraduate studies, I worked with [Charl Ras](https://findanexpert.unimelb.edu.au/profile/199833-charl-ras) at the [School of Mathematics and Statistics](https://ms.unimelb.edu.au) on designing resilient network embeddings.
+Previously I graduated with a B.S. in computer science from the [School of Computing and Information Systems](https://cis.unimelb.edu.au), the University of Melbourne. During my undergraduate studies, I worked with [Charl Ras](https://findanexpert.unimelb.edu.au/profile/199833-charl-ras) at the [School of Mathematics and Statistics](https://ms.unimelb.edu.au) on designing resilient network embeddings.
 
 I publish under my official Vietnamese name, Tuan Dung Nguyen.
 
 News
 ======
+
+[2023-03-16] This fall I am excited to be joining the [University of Pennsylvania](https://www.upenn.edu) as a Ph.D. candidate in [computer and information science](https://www.cis.upenn.edu)!
 
 [2022-11-10] I made a [YouTube channel](https://www.youtube.com/channel/UCvseh-YyXwVCp4uuCMyky8w)! The first video is a [lecture on optimal transport](https://www.youtube.com/watch?v=3YFmaoCYSlc) I gave to the Advanced ML class at ANU. The slides are [here](/files/ANU_OT_Slides.pdf).
 
