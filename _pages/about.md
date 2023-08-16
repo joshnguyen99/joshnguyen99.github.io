@@ -8,13 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am an M.Phil. student working with [Lexing Xie](http://users.cecs.anu.edu.au/~xlx) and [Colin Klein](http://colinklein.org) at the [Computational Media Lab](http://cm.cecs.anu.edu.au/), the Australian National University. I am also affiliated with the [Humanising Machine Intelligence](https://hmi.anu.edu.au) Grand Challenge at ANU.
+I am a Ph.D. student at the [Department of Computer and Information Science](https://www.cis.upenn.edu), the University of Pennsylvania, where I work with [Duncan Watts](https://duncanjwatts.com/) at the [Computational Social Science Lab](https://css.seas.upenn.edu).
 
-My thesis is in *computational social science*. I am interested in real-life moral dilemmas, social dynamics and, more broadly, practical ethics. My research aims to study relevant large-scale social phenomena using computational methods grounded in machine learning, moral psychology and natural language processing.
+My research aims to study relevant large-scale social phenomena using computational methods grounded in machine learning, natural language, network science and social psychology. My past and present work includes a study of over [100,000 real-life online discussions](https://arxiv.org/abs/2203.16762) to uncover popular topics of contemporary moral concern, how moral dilemmas are framed, and how they are perceived and judged by internet users.
 
-I also have a special interest in *optimization*, especially in the context of machine learning. In 2019 and 2020, I worked as an intern with [Nguyen Tran](https://nguyenhoangtran.github.io) at the [School of Computer Science](https://www.sydney.edu.au/engineering/schools/school-of-computer-science.html), the University of Sydney, on designing personalized and communication-efficient algorithms for federated learning.
+Prior to joining Penn I was an M.Phil. student working with [Lexing Xie](http://users.cecs.anu.edu.au/~xlx) and [Colin Klein](http://colinklein.org) at the [Computational Media Lab](http://cm.cecs.anu.edu.au/), the Australian National University. I was also affiliated with the [Humanising Machine Intelligence](https://hmi.anu.edu.au) Grand Challenge at ANU.
 
-Previously I graduated with a B.S. in computer science from the [School of Computing and Information Systems](https://cis.unimelb.edu.au), the University of Melbourne. During my undergraduate studies, I worked with [Charl Ras](https://findanexpert.unimelb.edu.au/profile/199833-charl-ras) at the [School of Mathematics and Statistics](https://ms.unimelb.edu.au) on designing resilient network embeddings.
+Prior to that I pursued B.S. in computer science at the [School of Computing and Information Systems](https://cis.unimelb.edu.au), the University of Melbourne. During my undergraduate studies, I worked with [Charl Ras](https://findanexpert.unimelb.edu.au/profile/199833-charl-ras) at the [School of Mathematics and Statistics](https://ms.unimelb.edu.au) on designing resilient network embeddings.
+
+I also have a special interest in *optimization*, especially in the context of machine learning. I have collaborated with [Nguyen Tran](https://nguyenhoangtran.github.io) at the [School of Computer Science](https://www.sydney.edu.au/engineering/schools/school-of-computer-science.html), the University of Sydney, on designing personalized and communication-efficient algorithms for federated learning.
 
 I publish under my official Vietnamese name, Tuan Dung Nguyen.
 
