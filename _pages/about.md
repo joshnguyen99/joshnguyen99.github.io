@@ -23,6 +23,8 @@ I publish under my official Vietnamese name, Tuan Dung Nguyen.
 News
 ======
 
+[2023-09-12] We release a new language model for astronomical research called [AstroLLaMA](https://huggingface.co/universeTBD/astrollama). Joint work with [Yuan-Sen Ting](https://www.mso.anu.edu.au/~yting) and [Jo Ciuca](https://www.jociuca.com) at the ANU Research School of Astronomy and many others at [UniverseTBD](http://universetbd.org/). A short technical report can be found [here](https://arxiv.org/abs/2309.06126).
+
 [2023-03-16] This fall I am excited to be joining the [University of Pennsylvania](https://www.upenn.edu) as a Ph.D. candidate in [computer and information science](https://www.cis.upenn.edu)!
 
 [2022-11-10] I made a [YouTube channel](https://www.youtube.com/channel/UCvseh-YyXwVCp4uuCMyky8w)! The first video is a [lecture on optimal transport](https://www.youtube.com/watch?v=3YFmaoCYSlc) I gave to the Advanced ML class at ANU. The slides are [here](/files/ANU_OT_Slides.pdf).
