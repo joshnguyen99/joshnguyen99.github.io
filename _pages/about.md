@@ -23,6 +23,8 @@ I publish under my official Vietnamese name, Tuan Dung Nguyen.
 News
 ======
 
+[2023-11-16] Our new paper, titled _Measuring Moral Dimensions in Social Media with Mformer_, is accepted to [ICWSM 2024](https://icwsm.org/2024/index.html/).
+
 [2023-09-12] We release a new language model for astronomical research called [AstroLLaMA](https://huggingface.co/universeTBD/astrollama). Joint work with [Yuan-Sen Ting](https://www.mso.anu.edu.au/~yting) and [Jo Ciuca](https://www.jociuca.com) at the ANU Research School of Astronomy and many others at [UniverseTBD](http://universetbd.org/). A short technical report can be found [here](https://arxiv.org/abs/2309.06126).
 
 [2023-03-16] This fall I am excited to be joining the [University of Pennsylvania](https://www.upenn.edu) as a Ph.D. candidate in [computer and information science](https://www.cis.upenn.edu)!
