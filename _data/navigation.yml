@@ -3,8 +3,8 @@ main:
   - title: "CV"
     url: /files/JoshNguyen_CV.pdf
 
-  # - title: "Publications"
-  #   url: /publications/
+  - title: "Publications"
+    url: /publications/
 
   - title: "Posts"
     url: /posts/

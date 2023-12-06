@@ -1,4 +1,4 @@
-<!-- ---
+---
 layout: archive
 title: "Publications"
 permalink: /publications/
@@ -9,6 +9,13 @@ author_profile: false
 
 Tung-Anh Nguyen, *Tuan Dung Nguyen*, Long Tan Le, Canh T. Dinh, and Nguyen H. Tran. "**On the Generalization of Wasserstein Robust Federated Learning**." arXiv:2206.01432 (2022). [[Paper]](https://arxiv.org/abs/2206.01432) [[Code]](https://github.com/dual-grp/WAFL)
 
+## 2024
+Tuan Dung Nguyen, Ziyu Chen, Nicholas George Carroll, Alasdair Tran, Colin Klein, and Lexing Xie. “**Measuring Moral Dimensions in Social Media with Mformer**”. In: Proceedings of the International AAAI Conference on Web and Social Media (to appear) (2024). [[Paper]](https://arxiv.org/abs/2311.10219) [[Code and data]](https://github.com/joshnguyen99/moral_axes)
+
+
+## 2023
+
+*Tuan Dung Nguyen*, Yuan-Sen Ting, Ioana Ciuca, Charles O’Neill, Ze-Chang Sun, Maja Jablonska, Sandor Kruk, Ernest Perkowski, Jack Miller, Jason Jingshi Li, Josh Peek, Kartheik Iyer, Tomasz Rozanski, Pranav Khetarpal, Sharaf Zaman, David Brodrick, Sergio J. Rodriguez Mendez, Thang Bui, Alyssa Goodman, Alberto Accomazzi, Jill Naiman, Jesse Cranney, Kevin Schawinski, and Roberta Raileanu. "**AstroLLaMA: Towards Specialized Foundation Models in Astronomy**”. In: Proceedings of the 2nd Workshop on Information Extraction from Scientific Publications. Bali, Indonesia: Association for Computational Linguistics, 2023, pp. 49–55. [[Paper]](https://arxiv.org/abs/2309.06126) [[Model]](https://huggingface.co/universeTBD/astrollama) [[Presentation]](https://www.youtube.com/watch?v=x54hBqpZTSA)
 
 ## 2022
 
@@ -24,4 +31,4 @@ Canh T. Dinh, Nguyen H. Tran, *Tuan Dung Nguyen*, Wei Bao, Amir Rezaei Balef, Bi
 
 Canh T. Dinh, Nguyen H. Tran, and *Tuan Dung Nguyen*. “**Personalized Federated Learning with Moreau Envelopes**”. In: Advances in Neural Information Processing Systems 33. 2020, pp. 21394–21405. [[Paper]](https://papers.nips.cc/paper/2020/hash/f4f1f13c8289ac1b1ee0ff176b56fc60-Abstract.html) [[Code]](https://github.com/CharlieDinh/pFedMe) [[Presentation]](https://slideslive.com/38937057/personalized-federated-learning-with-moreau-envelopes?ref=recommended)
 
-Canh T. Dinh, Nguyen H. Tran, *Tuan Dung Nguyen*, Wei Bao, Albert Y. Zomaya, and Bing B. Zhou. “**Federated Learning with Proximal Stochastic Variance Reduced Gradient Algorithms**”. In: 49th International Conference on Parallel Processing. 2020, pp. 1–11. [[Paper]](https://dl.acm.org/doi/10.1145/3404397.3404457) [[Code]](https://github.com/CharlieDinh/FederatedLearningWithSVRG) [[Presentation]](https://www.youtube.com/watch?v=cXsFYcXF0KM) -->
+Canh T. Dinh, Nguyen H. Tran, *Tuan Dung Nguyen*, Wei Bao, Albert Y. Zomaya, and Bing B. Zhou. “**Federated Learning with Proximal Stochastic Variance Reduced Gradient Algorithms**”. In: 49th International Conference on Parallel Processing. 2020, pp. 1–11. [[Paper]](https://dl.acm.org/doi/10.1145/3404397.3404457) [[Code]](https://github.com/CharlieDinh/FederatedLearningWithSVRG) [[Presentation]](https://www.youtube.com/watch?v=cXsFYcXF0KM)
