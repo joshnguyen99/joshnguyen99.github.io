@@ -10,7 +10,7 @@ author_profile: false
 Tung-Anh Nguyen, *Tuan Dung Nguyen*, Long Tan Le, Canh T. Dinh, and Nguyen H. Tran. "**On the Generalization of Wasserstein Robust Federated Learning**." arXiv:2206.01432 (2022). [[Paper]](https://arxiv.org/abs/2206.01432) [[Code]](https://github.com/dual-grp/WAFL)
 
 ## 2024
-Tuan Dung Nguyen, Ziyu Chen, Nicholas George Carroll, Alasdair Tran, Colin Klein, and Lexing Xie. “**Measuring Moral Dimensions in Social Media with Mformer**”. In: Proceedings of the International AAAI Conference on Web and Social Media (to appear) (2024). [[Paper]](https://arxiv.org/abs/2311.10219) [[Code and data]](https://github.com/joshnguyen99/moral_axes)
+*Tuan Dung Nguyen*, Ziyu Chen, Nicholas George Carroll, Alasdair Tran, Colin Klein, and Lexing Xie. “**Measuring Moral Dimensions in Social Media with Mformer**”. In: Proceedings of the International AAAI Conference on Web and Social Media (to appear) (2024). [[Paper]](https://arxiv.org/abs/2311.10219) [[Code and data]](https://github.com/joshnguyen99/moral_axes)
 
 
 ## 2023
