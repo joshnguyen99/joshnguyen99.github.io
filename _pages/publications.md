@@ -11,7 +11,7 @@ Tung-Anh Nguyen, *Tuan Dung Nguyen*, Long Tan Le, Canh T. Dinh, and Nguyen H. Tr
 
 ## 2024
 
-Anh Duc Nguyen, *Tuan Dung Nguyen*, Quang Minh Nguyen, Hoang H. Nguyen, Lam M. Nguyen, and Kim-Chuan Toh. "**On Partial Optimal Transport: Revising the Infeasibility of Sinkhorn and Efficient Gradient Methods**". In: Proceedings of the AAAI Conference on Artificial Intelligence (to appear) 38 (2024). [[Code]](https://github.com/joshnguyen99/partialot)
+Anh Duc Nguyen, *Tuan Dung Nguyen*, Quang Minh Nguyen, Hoang H. Nguyen, Lam M. Nguyen, and Kim-Chuan Toh. "**On Partial Optimal Transport: Revising the Infeasibility of Sinkhorn and Efficient Gradient Methods**". In: Proceedings of the AAAI Conference on Artificial Intelligence (to appear) 38 (2024).[[Paper]](https://arxiv.org/abs/2312.13970) [[Code]](https://github.com/joshnguyen99/partialot)
 
 *Tuan Dung Nguyen*, Ziyu Chen, Nicholas George Carroll, Alasdair Tran, Colin Klein, and Lexing Xie. “**Measuring Moral Dimensions in Social Media with Mformer**”. In: Proceedings of the International AAAI Conference on Web and Social Media (to appear) (2024). [[Paper]](https://arxiv.org/abs/2311.10219) [[Code and data]](https://github.com/joshnguyen99/moral_axes)
 
