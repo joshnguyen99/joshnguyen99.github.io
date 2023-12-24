@@ -23,8 +23,8 @@ I publish under my official Vietnamese name, Tuan Dung Nguyen.
 News
 ======
 
-[2023-12-09] We have a paper accepted to [AAAI 2024](https://aaai.org/aaai-conference/) titled _On Partial Optimal Transport: Revising the Infeasibility of Sinkhorn and Efficient
-Gradient Methods_. This is my joint work with Anh Duc Nguyen (NUS), Quang M. Nguyen (MIT), Hoang H. Nguyen (Georgia Tech) and Lam M. Nguyen (IBM).
+[2023-12-09] We have a paper accepted to [AAAI 2024](https://aaai.org/aaai-conference/) titled [_On Partial Optimal Transport: Revising the Infeasibility of Sinkhorn and Efficient
+Gradient Methods_](https://arxiv.org/abs/2312.13970). This is my joint work with Anh Duc Nguyen (NUS), Quang M. Nguyen (MIT), Hoang H. Nguyen (Georgia Tech) and Lam M. Nguyen (IBM).
 
 [2023-11-16] Our new paper, titled [_Measuring Moral Dimensions in Social Media with Mformer_](https://arxiv.org/abs/2311.10219), is accepted to [ICWSM 2024](https://icwsm.org/2024/index.html/).
 
