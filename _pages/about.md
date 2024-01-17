@@ -28,7 +28,7 @@ News
 [2024-01-04] [AstroLLaMA-chat](https://arxiv.org/abs/2401.01916), a conversational LLM based on our earlier model at UniverseTBD, is released. You can play with it via [this Hugging Face space](https://huggingface.co/spaces/universeTBD/astrollama-7b-chat-alpha).
 
 [2023-12-09] We have a paper accepted to [AAAI 2024](https://aaai.org/aaai-conference/) titled [_On Partial Optimal Transport: Revising the Infeasibility of Sinkhorn and Efficient
-Gradient Methods_](https://arxiv.org/abs/2312.13970).
+Gradient Methods_](https://arxiv.org/abs/2312.13970). *Update*: our paper is also selected for [oral presentation](https://aaai.org/wp-content/uploads/2024/01/AAAI-24-Oral-Papers-Schedule.pdf).
 
 [2023-11-16] Our new paper, titled [_Measuring Moral Dimensions in Social Media with Mformer_](https://arxiv.org/abs/2311.10219), is accepted to [ICWSM 2024](https://icwsm.org/2024/index.html/).
 
