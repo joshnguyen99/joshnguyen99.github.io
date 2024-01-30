@@ -25,6 +25,8 @@ I publish under my official Vietnamese name, Tuan Dung Nguyen.
 News
 ======
 
+[2024-01-29] I will start working at the [Mathematics and Computer Science Division](https://www.anl.gov/mcs) at the [Argonne National Laboratory](https://www.anl.gov) as a visiting student. Excited to be working with [Aurora](https://www.anl.gov/aurora), Argonne's flagship exascale supercomputer.
+
 [2024-01-04] [AstroLLaMA-chat](https://arxiv.org/abs/2401.01916), a conversational LLM based on our earlier model at UniverseTBD, is released. You can play with it via [this Hugging Face space](https://huggingface.co/spaces/universeTBD/astrollama-7b-chat-alpha).
 
 [2023-12-09] We have a paper accepted to [AAAI 2024](https://aaai.org/aaai-conference/) titled [_On Partial Optimal Transport: Revising the Infeasibility of Sinkhorn and Efficient
