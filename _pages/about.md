@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at the [Department of Computer and Information Science](https://www.cis.upenn.edu), the University of Pennsylvania, where I work with [Duncan Watts](https://duncanjwatts.com/) at the [Computational Social Science Lab](https://css.seas.upenn.edu).
+I am a Ph.D. student at the [Department of Computer and Information Science](https://www.cis.upenn.edu), the University of Pennsylvania, where I work with [Duncan Watts](https://duncanjwatts.com/) at the [Computational Social Science Lab](https://css.seas.upenn.edu). I am also a visiting student at the [Mathematics and Computer Science Division](https://www.anl.gov/mcs), [Argonne National Laboratory](https://www.anl.gov).
 
 I am broadly interested in developing computational and human-in-the-loop methods to study individual and collective human behavior. Examples of such behavior include [moral decision-making and judgment](https://arxiv.org/abs/2203.16762), [stance toward socially significant issues](https://arxiv.org/abs/2311.10219), and [commonsense knowledge and reasoning](https://css.seas.upenn.edu/project/common-sense/). The tools to study them are grounded in network science, natural language processing, social psychology, machine learning and crowdsourcing.
 
 My other interests include mathematical optimization, especially in the context of machine learning. I have collaborated with [Nguyen Tran](https://nguyenhoangtran.github.io) at the [School of Computer Science](https://www.sydney.edu.au/engineering/schools/school-of-computer-science.html), the University of Sydney, on designing personalized and communication-efficient algorithms for federated learning. Together with other Ph.D. students I have studied several problems in [computational optimal transport](https://arxiv.org/abs/2312.13970) with applications in machine learning.
 
-Recently I have been studying the capabilities of foundation models in areas involving the generation of novel and specialized knowledge. More specifically I am working with [Yuan-Sen Ting](https://www.mso.anu.edu.au/~yting), [Jo Ciuca](https://www.jociuca.com) and others at the [UniverseTBD](http://universetbd.org/) consortium on [hypothesis generation in astronomical research](https://arxiv.org/abs/2309.06126).
+Recently I have been studying the capabilities of foundation models in areas involving the generation of novel and specialized knowledge. The problems I am pursuing include [hypothesis generation in astronomical research](https://arxiv.org/abs/2309.06126) (with [Yuan-Sen Ting](https://www.mso.anu.edu.au/~yting/) and the [UniverseTBD](https://universetbd.org/) consortium) and evaluation of language models in various scientific contexts (with [Sandeep Madireddy](https://www.anl.gov/profile/sandeep-r-madireddy) ar Argonne).
 
 Prior to joining Penn I was an M.Phil. student at the [Computational Media Lab](http://cm.cecs.anu.edu.au/), the Australian National University where I was jointly advised by [Lexing Xie](http://users.cecs.anu.edu.au/~xlx) (School of Computing) and [Colin Klein](http://colinklein.org) (School of Philosophy). My thesis presents a series of large-scale studies of online discussions to uncover popular topics of contemporary moral concern, and characterize how moral dilemmas are framed and how they are perceived and judged by internet users. My research was also supported by the [Humanising Machine Intelligence](https://hmi.anu.edu.au) Grand Challenge at ANU.
 
@@ -25,7 +25,7 @@ I publish under my official Vietnamese name, Tuan Dung Nguyen.
 News
 ======
 
-[2024-01-29] I will start working at the [Mathematics and Computer Science Division](https://www.anl.gov/mcs) at the [Argonne National Laboratory](https://www.anl.gov) as a visiting student. Excited to be working with [Aurora](https://www.anl.gov/aurora), Argonne's flagship exascale supercomputer.
+[2024-01-29] I will start working at the [Mathematics and Computer Science Division](https://www.anl.gov/mcs), [Argonne National Laboratory](https://www.anl.gov) as a visiting student. Excited to be working with [Aurora](https://www.anl.gov/aurora), Argonne's flagship exascale supercomputer.
 
 [2024-01-04] [AstroLLaMA-chat](https://arxiv.org/abs/2401.01916), a conversational LLM based on our earlier model at UniverseTBD, is released. You can play with it via [this Hugging Face space](https://huggingface.co/spaces/universeTBD/astrollama-7b-chat-alpha).
 
