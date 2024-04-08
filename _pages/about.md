@@ -25,6 +25,8 @@ I publish under my official Vietnamese name, Tuan Dung Nguyen.
 News
 ======
 
+[2024-04-05] I presented a talk titled "How Aligned are Humans and Language Models on Common Sense?" at the [Generative AI and Social Science Research](https://dissc.yale.edu/events/generative-ai-and-social-science-research) at Yale University.
+
 [2024-02-16] I delivered a talk titled "Science Meets AI: Lessons from the Exploration of LLMs in Astronomical Research" at the [Planet+AI consortium](https://planet-ai-2023.github.io). The video recording is on [YouTube](https://youtu.be/znTDgN2iqNw).
 
 [2024-01-29] I will start working at the [Mathematics and Computer Science Division](https://www.anl.gov/mcs), [Argonne National Laboratory](https://www.anl.gov) as a visiting student. Excited to be working with [Aurora](https://www.anl.gov/aurora), Argonne's flagship exascale supercomputer.
