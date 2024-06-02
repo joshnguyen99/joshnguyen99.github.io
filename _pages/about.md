@@ -36,7 +36,7 @@ News
 [2023-12-09] We have a paper accepted to [AAAI 2024](https://aaai.org/aaai-conference/) titled [_On Partial Optimal Transport: Revising the Infeasibility of Sinkhorn and Efficient
 Gradient Methods_](https://arxiv.org/abs/2312.13970). *Update*: our paper is also selected for [oral presentation](https://aaai.org/wp-content/uploads/2024/01/AAAI-24-Oral-Papers-Schedule.pdf).
 
-[2023-11-16] Our new paper, titled [_Measuring Moral Dimensions in Social Media with Mformer_](https://arxiv.org/abs/2311.10219), is accepted to [ICWSM 2024](https://icwsm.org/2024/index.html/).
+[2023-11-16] Our new paper, titled [_Measuring Moral Dimensions in Social Media with Mformer_](https://arxiv.org/abs/2311.10219), is accepted to [ICWSM 2024](https://icwsm.org/2024/index.html/). *Update*: our paper is also selected for [spotlight presentation](https://aaai.org/wp-content/uploads/2024/05/ICWSM-24-Program-05.29.pdf).
 
 [2023-09-12] We release a new language model for astronomical research called [AstroLLaMA](https://huggingface.co/universeTBD/astrollama). Joint work with [Yuan-Sen Ting](https://www.mso.anu.edu.au/~yting) and [Jo Ciuca](https://www.jociuca.com) at the ANU Research School of Astronomy and many others at [UniverseTBD](http://universetbd.org/). A short technical report can be found [here](https://arxiv.org/abs/2309.06126).
 
