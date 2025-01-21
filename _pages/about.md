@@ -25,6 +25,8 @@ I publish under my official Vietnamese name, Tuan Dung Nguyen.
 News
 ======
 
+[2025-01-21] I will co-organize the Summer Institute in Computational Social Science at Penn this coming summer. More information will be found on [its website](https://sicss.io/2025/penn).
+
 [2024-07-08] I served as a teaching assistant at the [2024 Summer Institute in Computational Social Science](https://sicss.io/2024/penn), University of Pennsylvania.
 
 [2024-04-05] I presented a talk titled "How Aligned are Humans and Language Models on Common Sense?" at the [Generative AI and Social Science Research Workshop](https://dissc.yale.edu/events/generative-ai-and-social-science-research) at Yale University.
