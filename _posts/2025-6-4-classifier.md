@@ -1,5 +1,5 @@
 ---
-title: Making Inferences Your Model Performance
+title: Making Inferences about Your Model Performance
 date: 2025-6-4
 permalink: /posts/ml-performance-uncertainty
 toc: true
