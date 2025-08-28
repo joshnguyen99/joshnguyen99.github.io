@@ -5,7 +5,7 @@ type: "Undergraduate level"
 permalink: /teaching/2023-CommonSense
 venue: "University of Pennsylvania"
 date: 2024-08-29
-location: "Canberra, Australia"
+location: "Philadelphia, PA"
 ---
 
 Useful links:
