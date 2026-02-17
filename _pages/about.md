@@ -3,14 +3,14 @@ permalink: /
 title: ""
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-I am a Ph.D. student at the [Department of Computer and Information Science](https://www.cis.upenn.edu), the University of Pennsylvania, where I work with [Duncan Watts](https://duncanjwatts.com/) at the [Computational Social Science Lab](https://css.seas.upenn.edu). I am also a visiting student at the [Mathematics and Computer Science Division](https://www.anl.gov/mcs), [Argonne National Laboratory](https://www.anl.gov).
+I am a Ph.D. student in the [Department of Computer and Information Science](https://www.cis.upenn.edu), the University of Pennsylvania, where I work with [Duncan Watts](https://duncanjwatts.com/) in the [Computational Social Science Lab](https://css.seas.upenn.edu).
 
-I am broadly interested in developing computational and human-in-the-loop methods to study individual and collective human behavior. Examples of include [moral decision-making and judgment](https://arxiv.org/abs/2203.16762), [stance toward socially significant issues](https://arxiv.org/abs/2311.10219), and [commonsense intelligence](https://arxiv.org/abs/2505.10309). The tools to study them are grounded in natural language processing, crowdsourcing and network analysis.
+I am broadly interested in developing computational and human-in-the-loop methods to study individual and collective human behavior. Examples include [moral decision-making](https://arxiv.org/abs/2203.16762), [opinions on socially significant issues](https://arxiv.org/abs/2311.10219), and [commonsense intelligence](https://academic.oup.com/pnasnexus/advance-article/doi/10.1093/pnasnexus/pgag029/8487345). The methods to study them are grounded in natural language processing, crowdsourcing and network analysis.
 
 My other interests include mathematical optimization, especially in the context of machine learning. In particular, I have worked on designing [personalized](https://arxiv.org/abs/2006.08848) and [communication-efficient](https://ieeexplore.ieee.org/abstract/document/9509410) algorithms for federated learning, and studied several problems in [computational optimal transport](https://arxiv.org/abs/2312.13970). Recently I developed interest the capabilities of foundation models in areas involving the generation of novel and specialized knowledge. The problems I am pursuing include [hypothesis generation in astronomical research](https://arxiv.org/abs/2309.06126) and [evaluation of large language models in scientific research contexts](https://arxiv.org/abs/2502.20309).
 
@@ -20,8 +20,11 @@ Prior to that I pursued a B.S. in computer science at the [School of Computing a
 
 I publish under my official Vietnamese name, Tuan Dung Nguyen.
 
-News
-======
+# News
+
+[2026-02-16] A recent manuscript, titled "A large-scale evaluation of commonsense knowledge in humans and large language models," was published in [_PNAS Nexus_](https://academic.oup.com/pnasnexus/advance-article/doi/10.1093/pnasnexus/pgag029/8487345).
+
+[2026-01-01] I will, again, co-organize the Summer Institute in Computational Social Science at Penn. More information will be found on [its website](https://sicss.io/2026/penn).
 
 [2025-01-21] I will co-organize the Summer Institute in Computational Social Science at Penn this coming summer. More information will be found on [its website](https://sicss.io/2025/penn).
 
@@ -36,9 +39,9 @@ News
 [2024-01-04] [AstroLLaMA-chat](https://arxiv.org/abs/2401.01916), a conversational LLM based on our earlier model at UniverseTBD, is released. You can play with it via [this Hugging Face space](https://huggingface.co/spaces/universeTBD/astrollama-7b-chat-alpha).
 
 [2023-12-09] We have a paper accepted to [AAAI 2024](https://aaai.org/aaai-conference/) titled [_On Partial Optimal Transport: Revising the Infeasibility of Sinkhorn and Efficient
-Gradient Methods_](https://arxiv.org/abs/2312.13970). *Update*: our paper is also selected for [oral presentation](https://aaai.org/wp-content/uploads/2024/01/AAAI-24-Oral-Papers-Schedule.pdf).
+Gradient Methods_](https://arxiv.org/abs/2312.13970). _Update_: our paper is also selected for [oral presentation](https://aaai.org/wp-content/uploads/2024/01/AAAI-24-Oral-Papers-Schedule.pdf).
 
-[2023-11-16] Our new paper, titled [_Measuring Moral Dimensions in Social Media with Mformer_](https://arxiv.org/abs/2311.10219), is accepted to [ICWSM 2024](https://icwsm.org/2024/index.html/). *Update*: our paper is also selected for [spotlight presentation](https://aaai.org/wp-content/uploads/2024/05/ICWSM-24-Program-05.29.pdf).
+[2023-11-16] Our new paper, titled [_Measuring Moral Dimensions in Social Media with Mformer_](https://arxiv.org/abs/2311.10219), is accepted to [ICWSM 2024](https://icwsm.org/2024/index.html/). _Update_: our paper is also selected for [spotlight presentation](https://aaai.org/wp-content/uploads/2024/05/ICWSM-24-Program-05.29.pdf).
 
 [2023-09-12] We release a new language model for astronomical research called [AstroLLaMA](https://huggingface.co/universeTBD/astrollama). Joint work with [Yuan-Sen Ting](https://www.mso.anu.edu.au/~yting) and [Jo Ciuca](https://www.jociuca.com) at the ANU Research School of Astronomy and many others at [UniverseTBD](http://universetbd.org/). A short technical report can be found [here](https://arxiv.org/abs/2309.06126).
 
