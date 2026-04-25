@@ -22,7 +22,7 @@ I publish under my official Vietnamese name, Tuan Dung Nguyen.
 
 # News
 
-[2026-02-16] A recent manuscript, titled "A large-scale evaluation of commonsense knowledge in humans and large language models," was published in [_PNAS Nexus_](https://academic.oup.com/pnasnexus/advance-article/doi/10.1093/pnasnexus/pgag029/8487345). A demo for the paper can be found [here](/demos/LLM-commonsense.html).
+[2026-02-16] A recent manuscript, titled "A large-scale evaluation of commonsense knowledge in humans and large language models," was published in [_PNAS Nexus_](https://academic.oup.com/pnasnexus/advance-article/doi/10.1093/pnasnexus/pgag029/8487345). A demo for the paper can be found [here](/demos/llm-commonsense.html).
 
 [2026-01-01] I will, again, co-organize the Summer Institute in Computational Social Science at Penn. More information will be found on [its website](https://sicss.io/2026/penn).
 

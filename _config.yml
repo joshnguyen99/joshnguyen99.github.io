@@ -142,7 +142,7 @@ exclude:
   - node_modules
   - package.json
   - tmp
-  - demos
+  - vendor
 keep_files:
   - .git
   - .svn
