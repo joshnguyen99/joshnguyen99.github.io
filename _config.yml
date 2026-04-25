@@ -142,7 +142,7 @@ exclude:
   - node_modules
   - package.json
   - tmp
-  - vendor
+  - static_website
 keep_files:
   - .git
   - .svn
